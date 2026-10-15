@@ -1,0 +1,12 @@
+/.env
+/jobresearcher.db
+/jobresearcher.db-*
+/jobresearcher_session.session
+/jobresearcher_session.session-*
+/data/esco.sqlite3
+/data/esco.sqlite3-*
+/data/esco-import-*.sqlite3
+/data/esco-import-*.sqlite3-*
+__pycache__/
+/.venv/
+/dist/
